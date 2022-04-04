@@ -1,16 +1,17 @@
-# flutter_tdd_uurl
+# TDD_UURL 
 
-A new Flutter project.
+This is a new Flutter Project. It can extract facebook URL and other website.
+written by PyiHeinTun.
 
-## Getting Started
+## Architecure
+1. Bloc
+2. Repository Pattern
+3. GET IT as dependency injection
 
-This project is a starting point for a Flutter application.
+## How to install
+1. In your terminal type : git clone git@github.com:PyiHeinTun/TDD_UURL.git
+2. cd TDD_UURL && code .
+3. flutter packages get
+4. flutter run
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Then u have a fully functional App. This project is in development phase. Errors may occur.
